@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "679767122837",
+    "project_id": "vrsimulator-e45e1",
+    "storage_bucket": "vrsimulator-e45e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679767122837:android:cedfa0f67b0aad25e64c9c",
+        "android_client_info": {
+          "package_name": "com.VRSimulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679767122837-5peuu2o6jj3vk642ta583kmmjbq60i9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.VRSimulator",
+            "certificate_hash": "3fb8114e0d45d0c506ba0ea8c040ba099fd92db4"
+          }
+        },
+        {
+          "client_id": "679767122837-lbpe91pft55e203clc29pjg1ne2tia2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsEXtWtRsr9ihbJgWLfM24li6JQ6ddfYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679767122837-lbpe91pft55e203clc29pjg1ne2tia2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoginScene.unity
+    guid: 952d30f4f5c5da94a804522a939bbe7a
+  - enabled: 1
+    path: Assets/Scenes/UI_Scene.unity
+    guid: b4b87eee8823e404e92aecb009d3e780
+  - enabled: 1
+    path: Assets/Scenes/Beach.unity
+    guid: 08d333d9441ccc645a0e83f5fa3602ee
+  - enabled: 1
+    path: Assets/Scenes/VR Hospital.unity
+    guid: c2bc9f5b8daa1d6498224554261daba9
+  - enabled: 1
+    path: Assets/Scenes/BaloonBlast.unity
+    guid: 5222b157338585648b5e5e9001c5dff7
+  - enabled: 1
+    path: Assets/Scenes/Falls.unity
+    guid: 6efaf68009dc3a544b1504634c3386f4
+  - enabled: 0
+    path: Assets/Scenes/OculusScenes/UI_Scene _Oculus.unity
+    guid: c02c627265a87f64591484dfcf70954f
+  - enabled: 0
+    path: Assets/Scenes/OculusScenes/Beach _Oculus.unity
+    guid: 141aadf406bd80a488bb74d88367744c
+  - enabled: 0
+    path: Assets/Scenes/OculusScenes/VR Hospital _Oculus.unity
+    guid: 6b3441d544b275b4b880c942acdd8b6f
+  - enabled: 0
+    path: Assets/Scenes/OculusScenes/BaloonBlast_Oculus.unity
+    guid: 603f1e89a4256e348ba108412b484f17
+  - enabled: 0
+    path: Assets/Scenes/OculusScenes/Falls _Oculus.unity
+    guid: 08498b6803d68fb449ccbcb8c3b9ada8
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: d568b96a0dae7c842a0b67210ed43d94,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b4a6c7ed9daf16e49a4d0256cafe2c71,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 317e83a3023411a4e9caade2b16fe991,
+      type: 2}
