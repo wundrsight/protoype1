@@ -1,0 +1,9 @@
+I have compressed the firebase file(FirebaseCppApp-10_3_0). because Github not alloweding us to push firebase file which have more than 100MB.
+
+Kindly Unzip the file after downloading the project.
+--------------------------------------------------------
+
+File Path:
+Assets\Plugins\Firebase\Plugins\x86_64/FirebaseCppApp-10_3_0
+----------------------------------------------------------------------
+UnZip this file - "FirebaseCppApp-10_3_0"
